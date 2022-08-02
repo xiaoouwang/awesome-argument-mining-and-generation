@@ -1,6 +1,6 @@
-# awesome-argument-mining-and-generation
+# Awesome argument mining (AM) and argument/counter-argument generation
 
-List of articles in Argument Mining (AM) and Argument Generation (AG)
+Ressources (articles, workshops, tutorials, videos, books etc.) in Argument Mining (AM) and Argument Generation (AG)
 
 # Counter-argument generation
 
