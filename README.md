@@ -1,12 +1,12 @@
 # Awesome argument mining (AM) and argument/counter-argument generation
 
-Ressources (articles, workshops, tutorials, videos, books etc.) in Argument Mining (AM) and Argument Generation (AG)
+Ressources (articles, workshops, tutorials, videos, books etc.) in Argument Mining (AM) and Argument Generation (AG). Pull requests/contributions/co-managing are welcome.
 
 # Counter-argument generation
 
-Bilu et al. (2015) composed opposing claims combining rules with classiﬁers.
+* Bilu et al. (2015) composed opposing claims combining rules with classiﬁers.
 
-Hidey and McKeown (2019) tackled an analog task with neural methods.
+* Hidey and McKeown (2019) tackled an analog task with neural methods.
 
 # Annotation schema
 
