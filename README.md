@@ -1,7 +1,13 @@
+# Awesome argument mining (AM) and argument/counter-argument generation
+
+Ressources (articles, workshops, tutorials, videos, books etc.) in Argument Mining (AM) and Argument Generation (AG). Pull requests/contributions/co-managing are welcome.
+
 - [Awesome argument mining (AM) and argument/counter-argument generation](#awesome-argument-mining-am-and-argumentcounter-argument-generation)
+- [Argument Mining](#argument-mining)
 - [Counter-argument generation](#counter-argument-generation)
 - [Annotation schema](#annotation-schema)
 - [Datasets](#datasets)
+- [External knowledge](#external-knowledge)
 - [Domains](#domains)
   - [Covid](#covid)
 - [Workshops,tutorials and seminars](#workshopstutorials-and-seminars)
@@ -15,9 +21,12 @@
   - [Tutorials](#tutorials)
   - [Summer schools](#summer-schools)
 
-# Awesome argument mining (AM) and argument/counter-argument generation
 
-Ressources (articles, workshops, tutorials, videos, books etc.) in Argument Mining (AM) and Argument Generation (AG). Pull requests/contributions/co-managing are welcome.
+# Argument Mining
+
+Fallacious Argument Classifcation in Political Debates, nice datasets
+
+Legal AM survery: A Decade of Legal Argumentation Mining: Datasets and Approaches
 
 # Counter-argument generation
 
@@ -30,6 +39,24 @@ Ressources (articles, workshops, tutorials, videos, books etc.) in Argument Mini
 http://ceur-ws.org/Vol-1341/full-vol.pdf
 
 # Datasets
+
+# External knowledge
+
+[NewsGuard is a browser extension](https://chrome.google.com/webstore/detail/newsguard/hcgajcpgaalgpeholhdooeddllhedegi)
+
+The UK startup FullFact
+
+These approaches beneﬁt from veriﬁed claims that are made public by fact-checking websites by using the ClaimReview metadata from schema.org
+
+COVID-19 sta3s3cal claims https://coronacheck.eurecom.fr/
+
+Studies using external knowledge: knowledge graph [Ahmadi et al., 2019] text [Nakov et al., 2021] relational dataset [karagiannis et al., 2020]
+
+[Ahmadi et al., 2019] N. Ahmadi, J. Lee, P. Papoo, M. Saeed. Explainable fact checking with probabilis3c answer set programming. In TTO, 2019.
+[Karagiannis et al., 2020] G. Karagiannis, M. Saeed, P. Papoo, I. Trummer. Scru3nizer: A mixedini3a3ve approach to large-scale, data-driven claim veriﬁca3on. VLDB, 13(11), 2020.
+[Nakov et al., 2021] P. Nakov, D. Corney, M. Hasanain, F. Alam, T. Elsayed, A. Barrón-Cedeño, P. Papoo, S. Shaar, G. Da San Mar3no. 2021. Automated Fact-Checking for Assis3ng Human FactCheckers. In IJCAI.
+
+Kialo.com
 
 # Domains
 
